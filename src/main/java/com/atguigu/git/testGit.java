@@ -6,5 +6,6 @@ public class testGit {
         System.out.println("hwq");
         System.out.println("hwq");
         System.out.println("测试pull");
+        System.out.println("master的测试merge");
     }
 }
