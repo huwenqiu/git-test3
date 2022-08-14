@@ -8,5 +8,6 @@ public class testGit {
         System.out.println("测试pull");
         System.out.println("hot-fix的测试merge");
         System.out.println("master的测试merge");
+        System.out.println("在github上写点代码pull到本地库")
     }
 }
